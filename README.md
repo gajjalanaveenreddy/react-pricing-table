@@ -1,1 +1,3 @@
 # react-pricing-table
+NAME:G NAVEEN REDDY
+MOBILE:7780779418
